@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="zen">Zaenal Muttaqien</string>
+    <string name="zen_year">235411076</string>
+    <string name="ron">Cristiano Ronaldo</string>
+    <string name="ron_year">2021</string>
+    <string name="messi">Leonel Messi</string>
+    <string name="messi_year">2022</string>
+    <string name="ini">Andreas Iniesta</string>
+    <string name="ini_year">2020</string>
+</resources>
