@@ -9,3 +9,4 @@ app > release > app-release.apk
 That's where the app is located
 # ppm_pert7
 # art_space_main_zen
+# art_space_main_zen
